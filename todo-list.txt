@@ -1,3 +1,4 @@
 My todo list:
 1. Study todo list
 2. Study Github
+3. Study array iteration
